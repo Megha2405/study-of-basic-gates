@@ -87,10 +87,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![output](<Screenshot 2025-03-18 203425.png>)
 
 **RTL realization Output:** 
-![output](<Screenshot 2025-03-11 113043.png>)
+![output](<Screenshot 2025-03-11 111048-1.png>)
 
 **RTL**
-![output](<Screenshot 2025-03-11 111048.png>)
+![output](<Screenshot 2025-03-11 113043-1.png>)
 
 **Result:**
     
